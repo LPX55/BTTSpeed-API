@@ -4,14 +4,15 @@
 [![Issues][issues-shield]][issues-url]
 [![WTFPL License][license-shield]][license-url]
 
-# BTTSpeed API
+# BTT Speed API
 > Unofficial Python API Wrapper for the BTT (BitTorrent Token) Speed WebUI for uTorrent and BitTorrent Clients
 
 ## Installation
 
 Git:
 
-```git clone https://github.com/BTTBoost/BTTSpeed-API.git
+```
+git clone https://github.com/BTTBoost/BTTSpeed-API.git
 ```
 ## Available API Endpoints
 
@@ -68,10 +69,17 @@ Complete list of endpoints actually published by BitTorrent team can be seen in 
 ## Meta
 
 BTT Boost – [Homepage](https://bttboost.com) – bttboost@pm.me
+BTT Speed Subreddit - [Link](https://reddit.com/r/BTT_Speed)
 
 Distributed under the WTFPL license. See ``LICENSE`` for more information.
 
-[https://github.com/bttboost/](https://github.com/bttboost/)
+## Donations
+* BTC ``bc1q9lhnd8un6f74hawqfstgqelevjtaukwtjmspdk``
+* ETH ``0x4a95dEcaB17111Fb690315Fc542ab1754c3B00B5``
+* LTC ``ltc1qk9s2krvnlnzlq8zaarfjqe80vajw5pg2xsc7lw``
+* TRX / BTT / USDT-TRC10 ``TYhp2gFGZ9poFHQmzSQZ5JFe5LWznncyu5``
+* XRP: ``rfPrCwHawfk8NVCvk2LxvKromvtGoZy6Uo``
+
 
 ## Contributing
 
