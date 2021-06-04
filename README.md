@@ -58,13 +58,19 @@ output:
 ## Excluded API Endpoints
 There are some endpoints I have purposefully left out for numerous reasons: 1) The API endpoint is not publicly live (like the Binance Exchange Wallet Integration endpoints); 2) It's dangerous for those who don't know what they're doing (privatekey, seed phrase, etc)
 
-Complete list of endpoints actually published by BitTorrent team can be seen in ``js/extracted.js``
+Complete list of endpoints actually published by BitTorrent team can be seen in ``misc/extracted.txt``
 
 
 ## Release History
 
 * 0.1
     * Work in progress
+
+## TO-DO
+
+* Better organization
+* Include more endpoints
+* Announce the BTT Boost Project
 
 ## Meta
 
@@ -75,11 +81,11 @@ Distributed under the WTFPL license. See ``LICENSE`` for more information.
 
 ## Donations
 * BTC ``bc1q9lhnd8un6f74hawqfstgqelevjtaukwtjmspdk``
-* ETH ``0x4a95dEcaB17111Fb690315Fc542ab1754c3B00B5``
+* ETH / ERC20 ``0x4a95dEcaB17111Fb690315Fc542ab1754c3B00B5``
 * LTC ``ltc1qk9s2krvnlnzlq8zaarfjqe80vajw5pg2xsc7lw``
 * TRX / BTT / USDT-TRC10 ``TYhp2gFGZ9poFHQmzSQZ5JFe5LWznncyu5``
 * XRP: ``rfPrCwHawfk8NVCvk2LxvKromvtGoZy6Uo``
-
+* DOGE: ``DGryeDF6F7uJh5JibP9ZogvDF3QYQ19i5h``
 
 ## Contributing
 
