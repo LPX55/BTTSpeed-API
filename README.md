@@ -74,8 +74,8 @@ Complete list of endpoints actually published by BitTorrent team can be seen in 
 
 ## Meta
 
-BTT Boost – [Homepage](https://bttboost.com) – bttboost@pm.me
-BTT Speed Subreddit - [Link](https://reddit.com/r/BTT_Speed)
+* BTT Boost – [Homepage](https://bttboost.com) – bttboost@pm.me
+* BTT Speed Subreddit - [Link](https://reddit.com/r/BTT_Speed)
 
 Distributed under the WTFPL license. See ``LICENSE`` for more information.
 
